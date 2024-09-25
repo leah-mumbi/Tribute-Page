@@ -1,0 +1,39 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 200;
+  color: #495057;
+  background-color: white;
+  text-align: center;
+  line-height: 2;
+}
+section {
+  display: block;
+}
+li {
+  display: list-item;
+  margin: 16px 0;
+}
+img {
+  display: block;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+}
+#main {
+  margin: 30px 8px;
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 15px;
+}
+h1 {
+  font-weight: bold;
+}
+ul {
+  text-align: left;
+  margin: 0 auto 50 auto;
+  list-style-type: disc;
+  max-width: 550px;
+  display: block;
+}
